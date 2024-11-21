@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Lab3_server\Lab3_server\bin\Debug\Lab3_server.exe.config
+C:\Users\user\source\repos\Lab3_server\Lab3_server\bin\Debug\Lab3_server.exe
+C:\Users\user\source\repos\Lab3_server\Lab3_server\bin\Debug\Lab3_server.pdb
+C:\Users\user\source\repos\Lab3_server\Lab3_server\obj\Debug\Lab3_server.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab3_server\Lab3_server\obj\Debug\Lab3_server.Properties.Resources.resources
+C:\Users\user\source\repos\Lab3_server\Lab3_server\obj\Debug\Lab3_server.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab3_server\Lab3_server\obj\Debug\Lab3_server.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab3_server\Lab3_server\obj\Debug\Lab3_server.exe
+C:\Users\user\source\repos\Lab3_server\Lab3_server\obj\Debug\Lab3_server.pdb
+C:\Users\user\source\repos\Lab3_server\Lab3_server\obj\Debug\Lab3_server.Form1.resources
+C:\Users\user\source\repos\Lab3_server\Lab3_server\obj\Debug\Lab3_server.FormPortChooser.resources

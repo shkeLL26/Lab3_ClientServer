@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<VehicleXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PassCarList>
+    <PassengerCar>
+      <Brand>ГАЗ</Brand>
+      <Model>М20 Победа</Model>
+      <HorsePower>52</HorsePower>
+      <MaxSpeed>105</MaxSpeed>
+      <Type>Легковой</Type>
+      <Airbags>0</Airbags>
+    </PassengerCar>
+    <PassengerCar>
+      <Brand>ГАЗ</Brand>
+      <Model>24-12 Волга</Model>
+      <HorsePower>95</HorsePower>
+      <MaxSpeed>140</MaxSpeed>
+      <Type>Легковой</Type>
+      <Airbags>0</Airbags>
+    </PassengerCar>
+    <PassengerCar>
+      <Brand>ГАЗ</Brand>
+      <Model>31029 Волга</Model>
+      <HorsePower>100</HorsePower>
+      <MaxSpeed>145</MaxSpeed>
+      <Type>Легковой</Type>
+      <Airbags>0</Airbags>
+    </PassengerCar>
+    <PassengerCar>
+      <Brand>ГАЗ</Brand>
+      <Model>3110 Волга</Model>
+      <HorsePower>100</HorsePower>
+      <MaxSpeed>150</MaxSpeed>
+      <Type>Легковой</Type>
+      <Airbags>0</Airbags>
+    </PassengerCar>
+    <PassengerCar>
+      <Brand>LADA</Brand>
+      <Model>ВАЗ-2121 4x4</Model>
+      <HorsePower>77</HorsePower>
+      <MaxSpeed>130</MaxSpeed>
+      <Type>Легковой</Type>
+      <Airbags>0</Airbags>
+    </PassengerCar>
+    <PassengerCar>
+      <Brand>LADA</Brand>
+      <Model>ВАЗ-21099</Model>
+      <HorsePower>72</HorsePower>
+      <MaxSpeed>150</MaxSpeed>
+      <Type>Легковой</Type>
+      <Airbags>0</Airbags>
+    </PassengerCar>
+    <PassengerCar>
+      <Brand>LADA</Brand>
+      <Model>ВАЗ-2115</Model>
+      <HorsePower>82</HorsePower>
+      <MaxSpeed>175</MaxSpeed>
+      <Type>Легковой</Type>
+      <Airbags>0</Airbags>
+    </PassengerCar>
+    <PassengerCar>
+      <Brand>Rfvfp</Brand>
+      <Model />
+      <HorsePower>0</HorsePower>
+      <MaxSpeed>0</MaxSpeed>
+      <Type>Легковой</Type>
+      <Airbags>0</Airbags>
+    </PassengerCar>
+  </PassCarList>
+  <TruckList>
+    <Truck>
+      <Brand>ГАЗ</Brand>
+      <Model>33023 ГАЗель</Model>
+      <HorsePower>129</HorsePower>
+      <MaxSpeed>105</MaxSpeed>
+      <Type>Грузовик</Type>
+      <Wheels>0</Wheels>
+      <Volume>0</Volume>
+    </Truck>
+    <Truck>
+      <Brand>ГАЗ</Brand>
+      <Model>2705 ГАЗель</Model>
+      <HorsePower>117</HorsePower>
+      <MaxSpeed>115</MaxSpeed>
+      <Type>Грузовик</Type>
+      <Wheels>0</Wheels>
+      <Volume>0</Volume>
+    </Truck>
+    <Truck>
+      <Brand>ГАЗ</Brand>
+      <Model>3309 ГАЗон</Model>
+      <HorsePower>129</HorsePower>
+      <MaxSpeed>105</MaxSpeed>
+      <Type>Грузовик</Type>
+      <Wheels>0</Wheels>
+      <Volume>0</Volume>
+    </Truck>
+    <Truck>
+      <Brand>ГАЗ</Brand>
+      <Model>ГАЗель NEXT</Model>
+      <HorsePower>150</HorsePower>
+      <MaxSpeed>130</MaxSpeed>
+      <Type>Грузовик</Type>
+      <Wheels>0</Wheels>
+      <Volume>0</Volume>
+    </Truck>
+    <Truck>
+      <Brand>МАЗ</Brand>
+      <Model>МАЗ-5440</Model>
+      <HorsePower>400</HorsePower>
+      <MaxSpeed>95</MaxSpeed>
+      <Type>Грузовик</Type>
+      <Wheels>0</Wheels>
+      <Volume>0</Volume>
+    </Truck>
+    <Truck>
+      <Brand>МАЗ</Brand>
+      <Model>МАЗ-6517</Model>
+      <HorsePower>400</HorsePower>
+      <MaxSpeed>95</MaxSpeed>
+      <Type>Грузовик</Type>
+      <Wheels>0</Wheels>
+      <Volume>0</Volume>
+    </Truck>
+    <Truck>
+      <Brand>МАЗ</Brand>
+      <Model>МАЗ-6430</Model>
+      <HorsePower>400</HorsePower>
+      <MaxSpeed>95</MaxSpeed>
+      <Type>Грузовик</Type>
+      <Wheels>0</Wheels>
+      <Volume>0</Volume>
+    </Truck>
+  </TruckList>
+</VehicleXML>
